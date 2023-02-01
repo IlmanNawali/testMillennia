@@ -1,0 +1,17 @@
+1. adalah mekanisme browser yang memungkinkan akses terkontrol ke sumber daya 
+yang terletak di luar domain. Kebutuhannya adalah memperluas dan menambah fleksibilitas 
+pada kebijakan sumber yang sama.
+
+2. Relative : posisi elemen berhubungan dengan wadah divnya
+    Fixed : Elemen yang ada di dalamnya berhubungan dengan elemen html Titik tetapya adalah pojok kiri atas 
+    dan tidak pernah berkaitan dengan elemen wadah divnya
+    Absolute : memungkinkan menghapus elemen dari wadah div dengan deklarasi top, bottom, left, right
+    Static : nilai titik tetap
+3. AJAX adalah sebuah singkatan dari Asynchronous Javascript and XML dan 
+mengacu pada sekumpulan teknis pengembangan web (web development) yang 
+memungkinkan aplikasi web untuk bekerja secara asynchronous (tidak langsung) –
+memproses setiap request 
+(permintaan) yang datang ke server di sisi background
+4. {n:2}
+5. API RESTful adalah antarmuka yang digunakan oleh dua sistem komputer untuk bertukar 
+informasi secara aman melalui internet.

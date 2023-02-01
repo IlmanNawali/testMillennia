@@ -1,0 +1,5 @@
+export { default as Card } from './BarangItem'
+export { default as BarangList } from './BarangList'
+export { default as BarangDetail } from './BarangDetail'
+export { default as Login } from './Login'
+export { default as BarangInput } from './BarangInput'
